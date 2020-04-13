@@ -1,1 +1,1 @@
-SELECT * FROM CUSTOMER WHERE Name = "mambo" and color = 'golden'
+SELECT * FROM CUSTOMER WHERE Name = "mambo" and color = 'golden' and favfood= 'treat'
